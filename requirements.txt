@@ -1,2 +1,7 @@
 telebot
 requests
+pyfiglet
+os
+time
+random
+string
